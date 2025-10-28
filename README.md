@@ -16,7 +16,7 @@ git branch
 git log
 
 git pull origin your_branch
-
+git pull origin your_branch --rebase
 git add .
 git add your_file_1 your_file_2
 
