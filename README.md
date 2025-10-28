@@ -9,6 +9,7 @@ git --version
 
 git clone your_repo_url
 git remote -v
+git remote add origin your_git_url
 
 git status
 git branch
